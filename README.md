@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="35" title="React Native"/>
@@ -18,12 +18,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35" title="Git"/>
 </p>
 
+<!--
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciolacerdan&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mauriciolacerdan&show_icons=true&theme=transparent"/>
 </p>
 
-<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciolacerdan/mauriciolacerdan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciolacerdan/mauriciolacerdan/output/pacman-contribution-graph.svg">
