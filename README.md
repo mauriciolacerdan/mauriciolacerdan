@@ -1,16 +1,39 @@
-## Hi there 👋
+# <Maurício Lacerda/>
+
+**`Desenvolvedor Mobile | React Native`**
+
+Sou Maurício Lacerda, desenvolvedor mobile júnior focado em React Native e apaixonado por tecnologia.
+
+<a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+---
+
+### 🛠️ Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="35" title="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-line.svg" width="35" title="Expo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="35" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="35" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="35" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="35" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35" title="Git"/>
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciolacerdan&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"/> <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciolacerdan&show_icons=true&theme=transparent"/>
+</p>
+
 
 <!--
-**mauriciolacerdan/mauriciolacerdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Links que ajudou na personalisação:
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#common-options
+https://devicon.dev/
+https://www.markdownguide.org/basic-syntax/#blockquotes-1
+https://github.com/Notjef/profile-customizer
 -->
