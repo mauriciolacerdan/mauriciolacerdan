@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Mobile | React Native`**
 
-Sou Maurício Lacerda, desenvolvedor mobile júnior focado em React Native e apaixonado por tecnologia.
-
 <a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 ---
@@ -19,10 +17,6 @@ Sou Maurício Lacerda, desenvolvedor mobile júnior focado em React Native e apa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="35" title="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35" title="Git"/>
 </p>
-
----
-
-### 📊 Estatísticas
 
 <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciolacerdan&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"/>
