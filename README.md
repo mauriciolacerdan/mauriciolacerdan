@@ -1,6 +1,6 @@
 # <Maurício Lacerda/>
 
-**`Desenvolvedor Mobile | React Native`**
+**`Desenvolvedor Mobile`**
 
 <a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
