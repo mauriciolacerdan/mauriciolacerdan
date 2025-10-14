@@ -24,7 +24,7 @@ Sou Maurício Lacerda, desenvolvedor mobile júnior focado em React Native e apa
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciolacerdan&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"/> <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciolacerdan&show_icons=true&theme=transparent"/>
 </p>
