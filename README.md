@@ -29,11 +29,13 @@ Sou Maurício Lacerda, desenvolvedor mobile júnior focado em React Native e apa
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mauriciolacerdan&show_icons=true&theme=transparent"/>
 </p>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciolacerdan/mauriciolacerdan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciolacerdan/mauriciolacerdan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mauriciolacerdan/mauriciolacerdan/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 <!--
 Links que ajudou na personalisação:
