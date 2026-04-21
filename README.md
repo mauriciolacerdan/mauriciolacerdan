@@ -3,6 +3,10 @@
 **`Desenvolvedor Mobile`**
 **`Engenharia de Software`**
 
+
+<p> Estudante de Engenharia de Software com foco em desenvolvimento mobile. Empreendedor no ramo da tecnologia e outros. </p>
+            
+
 <a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 ---
