@@ -4,7 +4,7 @@
 **`Engenharia de Software`**
 
 
-<p> Estudante de Engenharia de Software na Univassouras e fazendo cursos com foco em desenvolvimento mobile. Empreendedor no ramo da tecnologia. </p>
+<p> Estudante de Engenharia de Software e desenvolvedor mobile, com foco em React Native, TypeScript e JavaScript. </p>
             
 
 <a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
