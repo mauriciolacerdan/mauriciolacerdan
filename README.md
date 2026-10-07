@@ -1,51 +1,34 @@
 # <Maurício Lacerda/>
 
 **`Desenvolvedor Mobile`**
-**`Engenharia de Software`**
+**`React Native | TypeScript | JavaScript`**
 
+<p>
+  Estudante de Engenharia de Software e Desenvolvedor Mobile, com foco no desenvolvimento de aplicações utilizando React Native, TypeScript e JavaScript.
+</p>
 
-<p> Estudante de Engenharia de Software e desenvolvedor mobile, com foco em React Native, TypeScript e JavaScript. </p>
-            
-
-<a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://mauriciolacerdan.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 ---
 
-### Linguagens e Tecnologias
+### Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="35" title="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="35" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="35" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="35" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-line.svg" width="35" title="Expo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-line.svg" width="35" title="Expo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" title="Figma"/>
-  <img src="https://cdn.simpleicons.org/cursor" width="35" title="Cursor"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="35" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="35" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="35" title="Figma"/>
+  <img src="https://cdn.simpleicons.org/cursor" width="35" title="Cursor"/>
 </p>
-
-<!--
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciolacerdan&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mauriciolacerdan&show_icons=true&theme=transparent"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciolacerdan/mauriciolacerdan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciolacerdan/mauriciolacerdan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mauriciolacerdan/mauriciolacerdan/output/pacman-contribution-graph.svg">
-</picture>
--->
-
-<!--
-Links que ajudou na personalisação:
-https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#common-options
-https://devicon.dev/
-https://www.markdownguide.org/basic-syntax/#blockquotes-1
-https://github.com/Notjef/profile-customizer
-https://profile-readme-generator.com/pt-BR/result
--->
