@@ -4,7 +4,7 @@
 **`React Native | TypeScript | JavaScript`**
 
 <p>
-  Estudante de Engenharia de Software e Desenvolvedor Mobile, com foco no desenvolvimento de aplicações utilizando React Native, TypeScript e JavaScript.
+  Estudante de Engenharia de Software na Universidade de Vassouras e Desenvolvedor Mobile, com foco no desenvolvimento de aplicações utilizando React Native, TypeScript e JavaScript.
 </p>
 
 <a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/">
