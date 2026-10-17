@@ -1,7 +1,8 @@
 # <Maurício Lacerda/>
 
-**`Desenvolvedor Mobile`**
+**`Desenvolvedor de Software`**
 **`React Native | TypeScript | JavaScript`**
+**`Eng. de Software • Univassouras`**
 
 <p>
   Estudante de Engenharia de Software na Universidade de Vassouras e Desenvolvedor Mobile, com foco no desenvolvimento de aplicações utilizando React Native, TypeScript e JavaScript.
