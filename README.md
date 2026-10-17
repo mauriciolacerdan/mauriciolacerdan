@@ -5,7 +5,7 @@
 **`Eng. de Software • Univassouras`**
 
 <p>
-  Estudante de Engenharia de Software na Universidade de Vassouras e Desenvolvedor Mobile, com foco no desenvolvimento de aplicações utilizando React Native, TypeScript e JavaScript.
+  Estudante de Engenharia de Software na Universidade de Vassouras e desenvolvedor de software com foco em mobile utilizando React Native, TypeScript e JavaScript.
 </p>
 
 <a href="https://www.linkedin.com/in/mauricio-lacerda-devmobile/">
